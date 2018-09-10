@@ -1,0 +1,15 @@
+#editors
+.idea
+.project
+.vscode
+*.sublime-project
+#locks
+package-lock.json
+#logs
+*.log
+npm-debug.log*
+#packages
+node_modules
+#reports
+coverage
+.nyc_output

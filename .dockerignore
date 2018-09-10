@@ -1,0 +1,21 @@
+# Git
+.git
+.gitignore
+
+# Build step outputs
+build
+.happypack
+
+# Docker configuration
+Dockerfile
+
+# NPM dependencies
+node_modules
+
+# Other
+*.log
+npm-debug.log*
+
+# Reports
+.nyc_output
+coverage
