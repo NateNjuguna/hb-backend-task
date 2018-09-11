@@ -31,7 +31,7 @@ npm start
 This will install the necessary dependencies, set temporary environment variables required by the app and start an express server at <http://0.0.0.0:8001>. Error logs are written to standard output (the console) and the `hb-backend-task_debug.log` file in the installation folder.
 
 ### Docker
-A public docker image is available at [https://hub.docker.com/natenjuguna/hb-backend-task](https://hub.docker.com/natenjuguna/hb-backend-task)
+A public docker image is available at [https://hub.docker.com/r/natenjuguna/hb-backend-task/](https://hub.docker.com/r/natenjuguna/hb-backend-task/)
 
 ## Testing
 
