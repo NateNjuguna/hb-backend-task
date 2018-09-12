@@ -62,6 +62,7 @@ The microservice has three endpoints. `/auth` for authentication, `/patch` endpo
 - Ensure you set the HB_PORT and HB_SECRET environment variables correctly each time you start the server
 - Please use available ports on your setup for the app and tests to run correctly.
 - Also ensure you have an active internet connection.
+- Use *NodejJS versions >= `8.11.4`* and *npm versions >= `5.6.0`*.
 
 ## LICENSE
 
